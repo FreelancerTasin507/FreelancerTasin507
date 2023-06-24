@@ -6,8 +6,7 @@ Hello,
 My name is Tanjid Ahammed Tasin . I am a React JS Developer. I have a good knowledge of HTML, CSS, Bootstrap, Tailwind CSS,JavaScript,React.js.I have made many attractive SPA(Single page applications) using this thing. I also have a fairly good understanding of MongoDB, Express js, and Node js. I also know about various tools like Firebase authentication, GitHub, Netlify, DevTools, Vercel, etc.
 
 Skills: HTML / CSS / JS / REACT JS / Tailwind CSS / Bootstrap / Express JS / MongoDB / Firebase
-
-- 🔭 I’m currently working on this page. 
+ 
 - 🌱 I’m currently learning JavaScript, MongoDB, Next JS 
 - 💬 Ask me about React Front End Development 
 
